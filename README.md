@@ -1,2 +1,1 @@
-# Hello_World
-prvi repository
+read me file
